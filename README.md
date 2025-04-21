@@ -14,11 +14,7 @@
 
 ## 🎵 Lo que estoy escuchando
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=tl59ve38rzgi7kogtqonm3aln&unique=true&width=300)](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2)
-
-<a href="https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2">
-  <img src="https://img.shields.io/badge/Lana Del Rey - Summertime Sadness-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Summertime Sadness" />
-</a>
+![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Juan:))
 
 ## 🔗 Conéctate conmigo
 
