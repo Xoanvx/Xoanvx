@@ -14,7 +14,9 @@
 
 ## 🎵 Lo que estoy escuchando
 
-![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=Juan:))
+<a href="https://open.spotify.com/track/4VQH4VluDUOsOuDxccTeyN?si=wm4kRkMmREicQPGwwZKrfQ">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=tl59ve38rzgi7kogtqonm3aln&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" width="350" />
+</a>
 
 ## 🔗 Conéctate conmigo
 
