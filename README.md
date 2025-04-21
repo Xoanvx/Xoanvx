@@ -14,9 +14,11 @@
 
 ## 🎵 Lo que estoy escuchando
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4VQH4VluDUOsOuDxccTeyN?si=wm4kRkMmREicQPGwwZKrfQ)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=tl59ve38rzgi7kogtqonm3aln&unique=true&width=300)](https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2)
 
-<!-- Para implementar el widget de música actual, mira las instrucciones al final -->
+<a href="https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2">
+  <img src="https://img.shields.io/badge/Lana Del Rey - Summertime Sadness-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Summertime Sadness" />
+</a>
 
 ## 🔗 Conéctate conmigo
 
