@@ -1,7 +1,7 @@
 # ¡Hola, mundo! 👋
 
 ## Sobre mí
-¡Bienvenido a mi perfil de GitHub! Soy un desarrollador en formación apasionado por la tecnología y el desarrollo de software. Actualmente estoy aprendiendo diversos lenguajes y tecnologías para expandir mis habilidades.
+¡Bienvenido a mi perfil de GitHub! Soy un desarrollador en formación apasionado por la tecnología y el desarrollo de software.
 
 ## 💻 Tecnologías que estoy aprendiendo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -14,29 +14,22 @@
 
 ## 🎵 Lo que estoy escuchando
 
-[![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)](https://open.spotify.com/user/TU_USUARIO_DE_SPOTIFY)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/4VQH4VluDUOsOuDxccTeyN?si=wm4kRkMmREicQPGwwZKrfQ)
+
+<!-- Para implementar el widget de música actual, mira las instrucciones al final -->
 
 ## 🔗 Conéctate conmigo
 
 ### Redes Sociales
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/tu_usuario)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tu_usuario)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tu_usuario)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xxoan.vx?igsh=eGx1bWhmM3ZiNzNu&utm_source=qr)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5sYSufuH)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/tl59ve38rzgi7kogtqonm3aln?si=_eIEsYMySWOwzx4T77fzgw)
 
 ### Juegos
-[![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://psnprofiles.com/tu_usuario)
+[![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)](https://profile.playstation.com/JuanvicXD)
 
 ## 📊 Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USERNAME&show_icons=true&theme=radical)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Xoanvx&show_icons=true&theme=tokyonight)
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USERNAME&layout=compact&theme=radical)
-
-![Racha de contribuciones](https://github-readme-streak-stats.herokuapp.com/?user=TU_USERNAME&theme=radical)
-
-## 🏆 Trofeos de GitHub
-![Trofeos](https://github-profile-trophy.vercel.app/?username=TU_USERNAME&theme=radical)
-
----
-
-![Visitas al perfil](https://komarev.com/ghpvc/?username=TU_USERNAME&color=green)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Xoanvx&layout=compact&theme=tokyonight)
