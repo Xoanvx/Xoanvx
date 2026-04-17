@@ -1,8 +1,7 @@
 # Holaaa tonotos 👻
 
 ## Sobre mí
-Pues la verdad es que mientras esto no sea de ámbito profesional, puedo poner lo que se me da la gana. En fin, me gustan los tallarines verdes con milanesa o con trucha, Si que no respondo, es porque ando disociando o haciendo cualquier cosa menos agarrar mi celular. Por otro lado, me gusta jugar videojuegos casualmente. También me gustan los atardeceres; tengo la galería repleta de fotos de atardeceres y paisajes. Y finalmente, me gusta jugar tenis. Si sabes jugar, tú solamente escribeme y quedamos, aunque sea para pelotear o quizas te termino enseñando. Pero bueno como ya que no se me ocurre mucho más y dudo que esto lo actualice en un buen tiempo... "Siempre estoy a un paso de la locura, pero no sé como me mantengo cuerdo ☝️🤓"
-
+mau
 ## 💻 Tecnologías que estoy aprendiendo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
