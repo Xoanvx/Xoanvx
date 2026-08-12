@@ -14,7 +14,7 @@ mau
 
 ## 🎵 Lo que estoy escuchando
 
-[![Spotify Status](https://spotify-readme-badge.vercel.app/api/spotify?user_id=Xoan.vx)](https://open.spotify.com/user/tl59ve38rzgi7kogtqonm3aln)
+[![Spotify Status](https://lanyard.cnrad.dev/api/703699738888765441?theme=dark&bg_color=121212&show_spotify=true)](https://open.spotify.com/user/tl59ve38rzgi7kogtqonm3aln)
 
 ## 🔗 Conéctate conmigo
 
