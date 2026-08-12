@@ -1,4 +1,4 @@
-# Holaaa, soy Mau 👻
+# Holaaa 👻
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=7AA2F7&vCenter=true&width=435&lines=Coding+with+music+on...;Learning+Java+%26+Python;Welcome+to+my+profile!" alt="Typing SVG" />
