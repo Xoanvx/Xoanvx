@@ -2,6 +2,7 @@
 
 ## Sobre mí
 mau
+
 ## 💻 Tecnologías que estoy aprendiendo
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -13,7 +14,7 @@ mau
 
 ## 🎵 Lo que estoy escuchando
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=tl59ve38rzgi7kogtqonm3aln&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=tl59ve38rzgi7kogtqonm3aln&redirect=true)
+[![Spotify Profile](https://novatide-spotify-readme.vercel.app/api/spotify?user_id=tl59ve38rzgi7kogtqonm3aln)](https://open.spotify.com/user/tl59ve38rzgi7kogtqonm3aln)
 
 ## 🔗 Conéctate conmigo
 
@@ -27,6 +28,7 @@ mau
 
 ## 📊 Mis estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Xoanvx&show_icons=true&theme=tokyonight)
-
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Xoanvx&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Xoanvx&show_icons=true&theme=tokyonight&cache_seconds=1800" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Xoanvx&layout=compact&theme=tokyonight&cache_seconds=1800" alt="Lenguajes más usados" />
+</p>
