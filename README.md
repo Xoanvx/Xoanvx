@@ -1,4 +1,4 @@
-# Holaaa tonotos 👻
+# Holaaa 👻
 
 ## Sobre mí
 mau
@@ -14,7 +14,7 @@ mau
 
 ## 🎵 Lo que estoy escuchando
 
-[![Spotify Profile](https://novatide-spotify-readme.vercel.app/api/spotify?user_id=tl59ve38rzgi7kogtqonm3aln)](https://open.spotify.com/user/tl59ve38rzgi7kogtqonm3aln)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tl59ve38rzgi7kogtqonm3aln&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/tl59ve38rzgi7kogtqonm3aln)
 
 ## 🔗 Conéctate conmigo
 
